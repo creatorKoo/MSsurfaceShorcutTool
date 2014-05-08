@@ -12,6 +12,7 @@ HOW TO USE
 - `Shift + CTRL + ALT + Down` = LCD Brightness Down
 - `ALT + i` = Insert
 - `CTRL + ALT + t` = Always On Top Maker
+- `ALT + LButton(with Drag)` = Move Window by Alt+Drag. - Linux-like function.
 
 INFO
 ====
